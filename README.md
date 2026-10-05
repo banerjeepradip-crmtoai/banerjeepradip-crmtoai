@@ -16,7 +16,8 @@ Status: MVP
 
 Addresses fragmented enterprise AI oversight by connecting use-case assessment, controls, data readiness and cost visibility.
 
-- Repository: [ai-governance-copilot](https://github.com/banerjeepradip-crmtoai/ai-governance-copilot)
+- Repository: [ai-governance-copilot](https://github.com/user-attachments/assets/d2d7b9b8-fc5a-4f4a-abe9-ee2016c55903)
+
 - Focus: AI governance, controls, readiness, and operating model visibility
 - Use case: enterprise AI portfolio oversight
 
